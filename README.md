@@ -16,7 +16,7 @@ My name is Artur and I'm an acoustical engineering student at the Federal Univer
 
 <br/>
 <center>
-[<img align="left" alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>][python]
+[<img align="left" alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>]
 [<img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>][javacript]
 [<img align="left" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>][tscript]
 [<img align="left" alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>][nodejs]
@@ -36,25 +36,3 @@ My name is Artur and I'm an acoustical engineering student at the Federal Univer
 </center>
 <br/>
 
-
-[ResearchGate]: https://www.researchgate.net/profile/Michael-Ackermann-3
-[LinkedIn]: https://www.linkedin.com/in/michael-markus-ackermann/
-[vscode]: https://code.visualstudio.com
-[PPTX]: https://www.microsoft.com/pt-br/microsoft-365/free-office-online-for-the-web
-[Excel]: https://www.microsoft.com/pt-br/microsoft-365/free-office-online-for-the-web
-[GoogleSheets]: https://www.google.com/sheets/about/
-[GIMP]: https://www.gimp.org/
-[blender]: https://www.blender.org/
-[Inkscape]: https://inkscape.org/pt-br/
-[Overleaf]: https://www.overleaf.com/
-[jupyter]: https://jupyter.org/
-[java]: https://www.java.com
-[python]: https://www.python.org
-[cpp]: https://isocpp.org/
-[markdown]: https://www.markdownguide.org/basic-syntax/
-[latex]: https://www.overleaf.com/
-[julia]: https://julialang.org/
-[lua]: https://www.lua.org/
-[numpy]: https://numpy.org/
-[scipy]: https://scipy.org/
-[pandas]: https://pandas.pydata.org/
