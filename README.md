@@ -5,7 +5,7 @@
 
 My name is Artur and I'm an acoustical engineering student at the Federal University of Santa Maria (UFSM) located in south Brazil.
 
-## I'm a programmer and a gamer
+## I'm a programmer and AI enthusiast
 
 - ⚡ I am enthusiastic to explore the world of AI and Machine learning
 - :book: In general I like to learn new things (languages and skills with the most diverse softwares).
@@ -16,7 +16,7 @@ My name is Artur and I'm an acoustical engineering student at the Federal Univer
 
 <br/>
 <center>
-[<img align="left" alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>]
+<img align="left" alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
 [<img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>][javacript]
 [<img align="left" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>][tscript]
 [<img align="left" alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>][nodejs]
