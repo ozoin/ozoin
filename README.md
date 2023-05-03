@@ -3,20 +3,19 @@
 
 </br>
 
-My name is Artur and I'm an acoustical engineering student at the Federal University of Santa Maria (UFSM) located in south Brazil.
+My name is Artur and I'm an Artificial Intelligence student at the Johannes Kepler University located in Linz,Austria.
 
 ## I'm a programmer and AI enthusiast
 
 - ⚡ I am enthusiastic to explore the world of AI and Machine learning
 - :book: In general I like to learn new things (languages and skills with the most diverse softwares).
 
-## Knowledge:
-
 **Skills 🚀:**
 
 <br/>
 <div style="display:flex , padding:50px, justify-content:space-between, text-align:center">
 <img align="left" alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
+  <br/>
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
 <img align="left" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>
 <img align="left" alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
