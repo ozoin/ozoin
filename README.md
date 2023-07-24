@@ -3,13 +3,6 @@
 
 </br>
 
-My name is Artur and I'm an Artificial Intelligence student at the Johannes Kepler University located in Linz,Austria.
-
-## I'm a programmer and AI enthusiast
-
-- ⚡ I am enthusiastic to explore the world of AI and Machine learning
-- :book: In general I like to learn new things (languages and skills with the most diverse softwares).
-
 **Skills 🚀:**
 <div align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/>
